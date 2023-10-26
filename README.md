@@ -40,4 +40,4 @@ Your interest in our project is deeply appreciated. Our mission is clear: to har
 ⭐ Contact & Support:
 - Email: mnrohmawan@gmail.com
 - instagram: @rohmwann
-- Streamlit Web Interface: LiveToolLink[https://water-potability-project.streamlit.app/]
+- Streamlit Web Interface: LiveToolLink[https://water-potability-ml.streamlit.app/]
