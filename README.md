@@ -1,7 +1,4 @@
 # water_potability
-Model machine learning to predict water potability
-
-# water-potability
 Machine Learning Model for Water Potability Prediction with Streamlit 🚀
 
 🌍 Hello, Water Enthusiasts and Environmental Advocates!
